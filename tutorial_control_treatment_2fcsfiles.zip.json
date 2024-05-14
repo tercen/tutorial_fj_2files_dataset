@@ -1,0 +1,70 @@
+{
+ "kind": "TableSchema",
+ "id": "1",
+ "isDeleted": false,
+ "rev": "",
+ "description": "A simple flow dataset with two FCS files. One is a control, and one is a treatment.",
+ "name": "tutorial_control_treatment_2fcsfiles.zip",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [
+  {
+   "kind": "Pair",
+   "key": "PUBLISHED",
+   "value": "true"
+  }
+ ],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "",
+ "nRows": 0,
+ "columns": [],
+ "dataDirectory": "",
+ "relation": {
+  "kind": "CompositeRelation",
+  "id": "f33e3565-0742-461c-8584-e55bcc82e321",
+  "joinOperators": [
+   {
+    "kind": "JoinOperator",
+    "joinType": "leftOuter",
+    "leftPair": {
+     "kind": "ColumnPair",
+     "lColumns": [
+      "event_id"
+     ],
+     "rColumns": [
+      "event_id"
+     ]
+    },
+    "rightRelation": {
+     "kind": "SimpleRelation",
+     "id": "e073417f86e630c8f46db18e48e14f67855f4c64f1d93cd71ffef8eaad318eb5",
+     "index": 0
+    }
+   }
+  ],
+  "mainRelation": {
+   "kind": "SimpleRelation",
+   "id": "ca085d9ef3f3715175c86f5c783e407ee9dd9c25bb3bbf04952739a3ed5c9b14",
+   "index": 0
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "kind": "FileDocument",
+ "id": "tutorial_control_treatment_2fcsfiles.zip",
+ "isDeleted": false,
+ "rev": "",
+ "description": "A simple flow dataset with two FCS files. One is a control, and one is a treatment.",
+ "name": "tutorial_control_treatment_2fcsfiles.zip",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [
+  {
+   "kind": "Pair",
+   "key": "PUBLISHED",
+   "value": "true"
+  }
+ ],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "",
+ "dataUri": "lfs/d1/03/46704a4ec9a68e24b4a1fc5ef2af19afe3db7a6905d4aa3fc915cdd7091c",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 19966165
+}

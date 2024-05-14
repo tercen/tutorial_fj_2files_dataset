@@ -1,0 +1,96 @@
+{
+ "kind": "TableSchema",
+ "id": "18aea31a9474bd41c825d67c75f588b0acc3249f2b63a289402f74def8139cdf",
+ "isDeleted": false,
+ "rev": "",
+ "description": "A simple flow dataset with two FCS files. One is a control, and one is a treatment.",
+ "name": "Channel-Descriptions-tutorial_control_treatment_2fcsfiles.zip-05_14_24-16_25_58",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [
+  {
+   "kind": "Pair",
+   "key": "PUBLISHED",
+   "value": "true"
+  },
+  {
+   "kind": "Pair",
+   "key": "SHA256",
+   "value": "18aea31a9474bd41c825d67c75f588b0acc3249f2b63a289402f74def8139cdf"
+  }
+ ],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "0",
+ "nRows": 13,
+ "columns": [
+  {
+   "kind": "ColumnSchema",
+   "id": "4301588c-7052-4b50-9389-f508cb644b43",
+   "name": "channel_name",
+   "type": "string",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "ad969057-74c4-46fa-82c1-a7351e3e8468",
+   "name": "channel_description",
+   "type": "string",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "3ecf8a2e-4081-4970-a741-45770487d859",
+   "name": "channel_id",
+   "type": "int32",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  }
+ ],
+ "dataDirectory": "data/18/ae/18aea31a9474bd41c825d67c75f588b0acc3249f2b63a289402f74def8139cdf",
+ "relation": {
+  "kind": "Relation",
+  "id": "9b42f717-697b-457b-9e6b-59615b548418"
+ }
+}
